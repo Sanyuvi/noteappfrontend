@@ -181,7 +181,7 @@ export default function Login() {
           </a>
         </p>
         <p className="mt-3">
-          Demo info: Email: learnwithanandh@gmail.com | Password: Anandh1234
+          Demo info: Email: santhoshh2197@gmail.com | Password: Santhosh@123
         </p>
       </div>
       {/* Toast Container */}
